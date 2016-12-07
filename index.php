@@ -1,5 +1,5 @@
 <?php
-  echo "Hello OpenShift 2";
+  echo "Hello OpenShift 3";
   
 ?>
   
